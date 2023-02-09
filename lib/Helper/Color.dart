@@ -25,12 +25,12 @@ const Color grad2Color = Color(0xff09366F);
 //const Color disableColor = Color(0xffEEF2F9);
 const Color pink = Color(0xffd4001d);
 const Color red = Colors.red;
-const Color grey = Color(0xff808080);
+const Color grey = Color(0xff000000);
 // 0xff52575C
 // EEF2F9
-const Color lightBlack = Color(0xff999999);
+const Color lightBlack = Color(0xff000000);
 const Color lightBlack11 = Color(0xffEEF2F9);
-const Color lightBlack2 = Color(0xff52575C);
+const Color lightBlack2 = Color(0xff000000);
 const Color lightWhite = Color(0xffffffff);
 
 const Color white = Color(0xffFFFFFF);
